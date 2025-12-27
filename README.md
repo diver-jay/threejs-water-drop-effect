@@ -1,5 +1,7 @@
 # Three.js Water Drop Effect
 
+![Demo](output.gif)
+
 A realistic rainy window effect built with Three.js and React Three Fiber. This project recreates the mesmerizing water droplet animations on glass surfaces using custom GLSL shaders.
 
 **Inspired by [The Driver Home](https://thedriverhome.com/)** - A tribute to the beautiful rainy window effect from the original project, reimplemented using Three.js.
